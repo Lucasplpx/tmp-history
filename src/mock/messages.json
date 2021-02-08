@@ -1,0 +1,26 @@
+[
+  {
+    "METODO": "logNaoExisteConsultasParaCancelar",
+    "MENSAGEM": "Não existem consultas para serem canceladas no parceiro",
+    "DATA": "08/02/2021 07:54:43"
+  },
+  {
+    "METODO": "logNaoExisteConsultasParaCadastrarTeleatendimento",
+    "MENSAGEM": "Não existem consultas para serem cadastradas no teleatendimento",
+    "DATA": "08/02/2021 07:54:43"
+  },
+  {
+    "METODO": "ScheduleConsultaCadastroTeleAtendimento",
+    "MENSAGEM": "Não existem consultas para serem cadastradas no teleatendimento",
+    "DATA": "08/02/2021 07:54:43"
+  },
+  {
+    "MAIDA ": "Erro ao cadastrar atendimento",
+    "ID": "174",
+    "HORARIO": "12:00 no dia: 2021-01-28",
+    "ERRO": {
+      "campo": "Error",
+      "erro": "A data e horário da consulta deve ser futura."
+    }
+  }
+]
